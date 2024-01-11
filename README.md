@@ -1,6 +1,18 @@
-### Hi there 👋
-I'm iOS developer and UI/UX Designer from Cairo, Egypt, working in iOS development.
-I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+<div align="center">
+  <a href="https://asemelkhouli20.github.io/Portafolio">
+    <img src="images/main.png" alt="Logo" >
+  </a>
+
+  <h3 align="center">Asem Elkhouli</h3>
+
+  <p align="left">
+    I'm iOS developer and UI/UX Designer from Dammam, The Eastern Region, KSA working in iOS development.
+ <br/>
+    I enjoy turning complex problems into simple, beautiful and intuitive designs.
+  </p>
+</div>
+
 <!--
 **asemelkhouli20/asemelkhouli20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
