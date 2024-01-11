@@ -58,6 +58,25 @@
     </a>
 </div>
 
+### SKILL HIGHLIGHTS
+- Design and develop high-quality iOS applications according to specific requirements with clean architecture and code.
+- Solid understanding of the entire iOS development life cycle, Apple’s design principles, interface guidelines, and SOLID Principles.
+- Design user interface with SwiftUI and UIKit (Programmatic UI, Storyboard, Nibs).
+- Development skills in memory management, data structures, algorithms, protocol-oriented programming (POP), object-oriented
+programming (OOP), and concurrency (Thread-Safety - GCD - asynchronous) with Swift
+- Providing high-quality design for mobile applications, UI/UX design with Figma and Sketch, and AdobeXD
+- Knowledge of design patterns (Delegate, singletons, Coordinator …) with MVC, MVP, MVI, MVVM, and VIPER patterns.
+
+- working on code versioning tools (Git-GitHub), third-party libraries (Firebase, Google Maps, Alamofire, Realm …), APIs REST, Deep Linking, Universal Link, and Integrating Social-Media Sign In
+
+- Working on utilities like Postman, Jira, Trello, and Slack. And dependency managers with CocoaPods, and Swift Package Manager
+(SPM)
+
+- AddressBook, AVFoundation, CloudKit, Core Animation, Core Bluetooth, Core Data, Core Graphics, Core Location, Core Text,
+MapKit, SwiftData, UnitTest, URLSession, WidgetKit
+
+
+
 <br/><br/>
 <div style="background: white;" align="center">
 <br/>
