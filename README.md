@@ -28,7 +28,7 @@
     <a href="https://www.youtube.com/watch?v=2Rc8iPPRkOo" target="_blank">
     <img src="images/HRAppDetails.png" width="240" border="1" />
     </a>
-    <a href="https://www.youtube.com/watch?v=FWLRyLK9KB" target="_blank">
+    <a href="https://www.youtube.com/watch?v=FWLRyLK9KB0" target="_blank">
     <img src="images/AyenDetails.png" width="240" border="1" />
     </a>
     <a href="https://www.youtube.com/watch?v=MeArsQlocdM" target="_blank">
