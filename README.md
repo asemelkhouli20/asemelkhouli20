@@ -7,7 +7,7 @@
   ### Asem Elkhouli
 
   <p align="left">
-    I'm iOS developer and UI/UX Designer from Dammam, The Eastern Region, KSA working in iOS development.
+    I'm iOS developer and UI/UX Designer with 4 years of from Dammam, The Eastern Region, KSA working in iOS development.
  <br/>
     I enjoy turning complex problems into simple, beautiful and intuitive designs.
   </p>
