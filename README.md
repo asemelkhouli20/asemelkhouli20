@@ -81,19 +81,19 @@ MapKit, SwiftData, UnitTest, URLSession, WidgetKit
 <div style="background: white;" align="center">
 <br/>
   <a href="https://github.com/asemelkhouli20">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
+    <img src='images/github.png'
     width='30ox' >
   </a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/asem-elkhouli">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' 
+    <img src='images/linkedin.png' 
     width='30ox' >
   </a>
   <a href="https://asemelkhouli20.github.io/Portafolio">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' 
+    <img src='images/online-resume.png' 
     width='30ox' >
   </a>
    <a href="https://api.whatsapp.com/send/?phone=%2B966501786060&text&app_absent=0">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' 
+    <img src='images/whatsapp.png' 
     width='30ox' >
   </a>
   <br/>
