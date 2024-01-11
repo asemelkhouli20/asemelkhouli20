@@ -59,7 +59,8 @@
 </div>
 
 <br/><br/>
-<div>
+<div style="background: white;" align="center">
+<br/>
   <a href="https://github.com/asemelkhouli20">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
     width='30ox' >
@@ -76,6 +77,7 @@
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' 
     width='30ox' >
   </a>
+  <br/>
 </div>
 
 <!--
