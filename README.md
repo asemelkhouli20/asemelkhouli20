@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
   <a href="https://asemelkhouli20.github.io/Portafolio">
     <img src="images/Main.png" >
   </a>
