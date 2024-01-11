@@ -4,7 +4,7 @@
     <img src="images/Main.png" >
   </a>
 
-  <h1 align="center">Asem Elkhouli</h3>
+  <h1 align="left">Asem Elkhouli</h3>
 
   <p align="left">
     I'm iOS developer and UI/UX Designer from Dammam, The Eastern Region, KSA working in iOS development.
