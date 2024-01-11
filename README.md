@@ -75,8 +75,14 @@ programming (OOP), and concurrency (Thread-Safety - GCD - asynchronous) with Swi
 - AddressBook, AVFoundation, CloudKit, Core Animation, Core Bluetooth, Core Data, Core Graphics, Core Location, Core Text,
 MapKit, SwiftData, UnitTest, URLSession, WidgetKit
 
+### Education
+- Bachelor’s degree: Computer and Information Science - Computer science in Mansoura University 2021, good
+- High School in KSA, The Eastern Region - Dammam secondary school 99.22%, QIYAS 98 | 2017
 
+### EXPERIENCE
+- Scheme Code - July 2021 - Jan 2024 (2.7 Year) - as iOS Developer - UI/UX Design - Design Logo in Cairo, Egypt
 
+- Freelancer work - Sep 2020 - present as iOS Developer, UI/UX Design, and Convert design UI into SwiftUI Code
 <br/><br/>
 <div style="background: white;" align="center">
 <br/>
