@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://asemelkhouli20.github.io/Portafolio">
-    <img src="images/main.png" alt="Logo" >
+    <img src="images/Main.png" >
   </a>
 
   <h3 align="center">Asem Elkhouli</h3>
