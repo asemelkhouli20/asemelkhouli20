@@ -93,7 +93,7 @@ MapKit, SwiftData, UnitTest, URLSession, WidgetKit
     <img src='images/github.png'
     width='30ox' >
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/asem-elkhouli">
+  <a href="https://www.linkedin.com/in/asem-elkhouli">
     <img src='images/linkedin.png' 
     width='30ox' >
   </a>
